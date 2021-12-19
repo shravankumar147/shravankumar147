@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Graph representation Learning.
 
 
-
 😄 Pronouns: He/Him/His
+
+![GitHub followers](https://img.shields.io/github/followers/shravankumar147?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/shravankumar147?style=social)
