@@ -7,7 +7,7 @@ I am a Research Data Scientist. My Reserach interests in Graph Representation Le
 <h2 align="center">Projects</h2>
 
 1. Face Recognition 
-2. Toxic Comment Classifier
+2. Toxic Comment Classification
 
 
 <h2 align="center">Social Media</h2>
