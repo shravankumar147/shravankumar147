@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2>
 
-I am a Research Data Scientist. My Reserach interests in Graph Representation Learning.Previously I focused on Computer Vision and Natural Processing, now I am combining them with Graph ML.
+I am a Research Data Scientist. My Reserach focuses on Graph Representation Learning.Previously I focused on Computer Vision and Natural Processing, now I am combining them with Graph ML.
 
 <h2 align="center">Projects</h2>
 
