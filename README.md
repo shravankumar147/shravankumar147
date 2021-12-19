@@ -10,6 +10,7 @@ I am a Research Data Scientist. My Reserach focuses on Graph Representation Lear
 2. Toxic Comment Classification
 
 
+
 <h2 align="center">Social Media</h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/shravankumar147?style=social)
@@ -62,4 +63,15 @@ Here are some ideas to get you started:
 😄 Pronouns: He/Him/His
 
 <hr />
+
+Collapsed Content: 
+
+<details>
+  <summary>Click to expand!</summary>
+
+    ## More great tips!
+
+    - item 1 
+    - item 2
+</details>
 -->
