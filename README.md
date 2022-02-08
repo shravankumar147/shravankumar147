@@ -8,6 +8,7 @@ I am a Research Data Scientist. My Reserach focuses on Graph Representation Lear
 
 1. Face Recognition 
 2. Toxic Comment Classification
+3. Ethereum Maretplace - Web3.0
 
 <!-- ![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravankumar147&hide=contribs,prs&show_icons=true)
 
