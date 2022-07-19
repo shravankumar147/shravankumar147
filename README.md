@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2>
 
-I am a Research Data Scientist. My Reserach focus is on COmputer Vision, NLP. 
+I am a Research Data Scientist. My Reserach focus is on Computer Vision, NLP. 
 
 <h2 align="center">Projects</h2>
 
