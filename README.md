@@ -4,6 +4,20 @@
 
 I am an Applied Data Scientist. My Reserach focus is on Computer Vision, NLP. 
 
+
+**Work Experience**  
+
+-   **Developed AI-driven image processing solutions** to enhance vehicle presentation, ensuring visually appealing and high-converting images for online listings.
+-   **Designed and implemented background removal technology**, accelerating vehicle listing workflows and reducing time-to-market for dealerships.
+-   **Built an intelligent auto-scaling and positioning model**, ensuring every vehicle is optimally framed regardless of capture conditions.
+-   **Engineered an AI-based shadow rendering system** to create realistic lighting effects, improving the natural integration of vehicles into backgrounds.
+-   **Developed custom branding solutions**, enabling dealerships to overlay logos and showroom visuals, reinforcing brand identity across marketing channels.
+-   **Implemented AI-powered interior backgrounding** to seamlessly process diverse vehicle shots, including interiors and feature-focused images.
+-   **Designed a multiple-backgrounds feature**, allowing vehicles to be showcased in different contexts (main site, portals, marketing) for enhanced audience targeting.
+-   **Built a background blur model** that simulates professional depth-of-field effects, giving standard vehicle images a high-end photography look.
+
+These innovations improved image consistency, accelerated workflows, and enhanced dealership marketing strategies, leading to increased engagement and conversions.
+
 <h2 align="center">Projects</h2>
 
 1. Face Recognition 
